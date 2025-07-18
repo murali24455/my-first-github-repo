@@ -23,7 +23,7 @@ A clean and responsive *Login Page* built with *HTML, CSS, and JavaScript*. This
 
 ---
 
-## 📂 Project Structure>##
+## 📂 Project Structure
 Note: In this version, CSS and JS are embedded directly in index.html for simplicity. You can refactor it into separate files for better scalability.
 
 ---
